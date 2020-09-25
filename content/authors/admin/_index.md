@@ -21,21 +21,21 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 3D printed Microfluidics
+- Lab-on-a-chip
+- MEMS
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Electrical and Computer Engineering
+    institution: Brigham Young University
+    year: 2022
+  - course: MSc in Electrical and Computer Engineering
+    institution: Indiana University-Purdue University Indianapolis
+    year: 2018
+  - course: BSc in Electrical and Electronic Engineering
+    institution: Islamic University of Technology
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
