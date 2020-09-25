@@ -70,6 +70,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I work on developing high resolution 3D printing processes to bring the fabrication of lab-on-a-chip devices with microfluidic features (<100 μm) out of high maintenance class 10 cleanroom to a custom 3D printer.Currently, I am a 3rd year PhD student in Electrical and Computer Engineering department at Brigham Young University, Provo, UT. I work as a Research Assistant in the 3D printing for microfluidics lab under the supervision of Dr. Greg Nordin.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Prior to moving to Utah, I earned my Master of Science in Electrical and Computer Engineering (MSECE) degree from Indiana University-Purdue University Indianapolis (IUPUI) in May 2018. I investigated the feasibility of hydrogen storage in catalytically modified porous silicon in my master's thesis. I was the recipient of Distinguished Master's Thesis Award 2018 from Indiana University graduate school.
+
+I love cooking traditional Bangladeshi food, road trips, and visiting US national parks during my spare time. So far I have visited 4 national parks. I intend to visit all the national parks in future.
