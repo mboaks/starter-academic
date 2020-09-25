@@ -27,13 +27,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Electrical and Computer Engineering
+  - course: PhD in ECE
     institution: Brigham Young University
     year: 2022
-  - course: MSc in Electrical and Computer Engineering
+  - course: MSc in ECE
     institution: Indiana University-Purdue University Indianapolis
     year: 2018
-  - course: BSc in Electrical and Electronic Engineering
+  - course: BSc in EEE
     institution: Islamic University of Technology
     year: 2011
 
