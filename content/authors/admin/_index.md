@@ -14,7 +14,7 @@ role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: Brigham Young University University
+- name: Brigham Young University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
