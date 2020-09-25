@@ -15,7 +15,7 @@ role: PhD student
 # Organizations/Affiliations
 organizations:
 - name: Brigham Young University
-  url: ""
+  url: "https://www.byu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include 3d printed microfluidics, lab-on-a-chip, mems, etc.
