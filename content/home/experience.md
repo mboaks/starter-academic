@@ -25,7 +25,6 @@ date_format = "Jan 2006"
   date_start = "2018-09-01"
   date_end = ""
   description = """
-#   Responsibilities include:
   
   * Worked with Prof. Greg Nordin on developing biocompatible and optically clear resin for high resolution 3D printed
 microfluidic devices for cell-based assays.
