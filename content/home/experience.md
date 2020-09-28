@@ -24,10 +24,7 @@ date_format = "Jan 2006"
   location = "Utah"
   date_start = "2018-09-01"
   date_end = ""
-  description = """
-Worked with Prof. Greg Nordin on developing biocompatible and optically clear resin for high resolution 3D printed
-microfluidic devices for cell-based assays. Also worked on developing high resolution 3D printing processes to fabricate lab-on-a-chip devices for biomedical applications.
-  """
+  description = """Worked with Prof. Greg Nordin on developing biocompatible and optically clear resin for high resolution 3D printed microfluidic devices for cell-based assays. Also worked on developing high resolution 3D printing processes to fabricate lab-on-a-chip devices for biomedical applications."""
 
 [[experience]]
   title = "Professor"
