@@ -27,12 +27,12 @@ date_format = "Jan 2006"
   description = """Worked with Prof. Greg Nordin on developing biocompatible and optically clear resin for high resolution 3D printed microfluidic devices for cell-based assays. Also worked on developing high resolution 3D printing processes to fabricate lab-on-a-chip devices for biomedical applications."""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Assistant"
+  company = "Indiana University-Purdue University Indianapolis"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Indiana"
+  date_start = "2016-08-01"
+  date_end = "2018-05-08"
+  description = """Worked with Prof. Peter Schubert on investigating the kinetics of catalytically-modified porous silicon as a reversible hydrogen storage system using density functional theory (DFT) and compared the results to laboratory experiments. Close agreement was found (<4%), and the modeling linked the atomic-level results to macroscopic kinetic behavior of interest for practical applications."""
 
 +++
