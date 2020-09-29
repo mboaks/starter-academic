@@ -35,4 +35,13 @@ date_format = "Jan 2006"
   date_end = "2018-05-08"
   description = """Worked with Prof. Peter Schubert on investigating the kinetics of catalytically-modified porous silicon as a reversible hydrogen storage system using density functional theory (DFT) and compared the results to laboratory experiments. Close agreement was found (<4%), and the modeling linked the atomic-level results to macroscopic kinetic behavior of interest for practical applications."""
 
+[[experience]]
+  title = "Specialist, IT & Charging"
+  company = "Robi Axiata Limited"
+  company_url = ""
+  location = "Dhaka, Bangladesh"
+  date_start = "2012-02-15"
+  date_end = "2016-07-31"
+  description = """Worked on Billing and Charging domain for capacity planning, solution design, and day to day planning support for one of the largest telecom operators in Bangladesh ."""
+
 +++
