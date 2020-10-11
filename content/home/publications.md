@@ -65,6 +65,8 @@ subtitle = "Testing"
  
  # CSS class.
  css_class = ""
+
+ This is an exaple.
 +++
 
 {{% alert note %}}
