@@ -11,6 +11,4 @@ view: 2
 header:
   caption: ""
   image: ""
-
-Howdy, this is an example.
 ---
