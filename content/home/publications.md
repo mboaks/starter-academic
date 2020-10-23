@@ -66,7 +66,7 @@ subtitle = "Testing - Mawla"
  # CSS class.
  css_class = ""
 
- This is an exaple.
+ This is an example.
 +++
 
 {{% alert note %}}
