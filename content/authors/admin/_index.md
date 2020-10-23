@@ -23,6 +23,7 @@ bio: My research interests include 3d printed microfluidics, lab-on-a-chip, mems
 interests:
 - 3D printed microfluidics
 - Lab-on-a-chip
+- Photonics
 - MEMS
 
 education:
