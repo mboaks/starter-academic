@@ -73,8 +73,8 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 ## Conference Papers
 
-* Larson, Kevin, Alec Hammond, Christian Carver, Derek Anderson, **Mawla** **Boaks**, Matthew Viglione, Greg Nordin, and Ryan M. Camacho. "Zero-energy tuning of silicon photonic devices using 3D-printed microfluidics." In _Frontiers in Optics_, pp. FTu6B-2. Optical Society of America, 2020.
+* Larson, Kevin, Alec Hammond, Christian Carver, Derek Anderson, **Mawla** **Boaks**, Matthew Viglione, Greg Nordin, and Ryan M. Camacho. "Zero-energy tuning of silicon photonic devices using 3D-printed microfluidics." In _Frontiers in Optics_, pp. FTu6B-2. Optical Society of America, 2020. 
 
 ## Journal Articles
 
-* __Boaks, Mawla__, and Peter J. Schubert. "Kinetics of hydrogen storage on catalytically-modified porous silicon." _Journal of Catalysis_ 371 (2019): 81-87.
+* __Boaks, Mawla__, and Peter J. Schubert. "Kinetics of hydrogen storage on catalytically-modified porous silicon." _Journal of Catalysis_ 371 (2019): 81-87. [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0021951719300351)
