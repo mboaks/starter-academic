@@ -77,4 +77,4 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 ## Journal Articles
 
-* __Boaks, Mawla__, and Peter J. Schubert. "Kinetics of hydrogen storage on catalytically-modified porous silicon." _Journal of Catalysis_ 371 (2019): 81-87. [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0021951719300351)
+* __Boaks, Mawla__, and Peter J. Schubert. "Kinetics of hydrogen storage on catalytically-modified porous silicon." _Journal of Catalysis_ 371 (2019): 81-87. [[ScienceDirect]](https://www.sciencedirect.com/science/article/pii/S0021951719300351)
