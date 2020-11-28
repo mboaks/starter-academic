@@ -73,7 +73,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 ## Conference Papers
 
-* Larson, Kevin, Alec Hammond, Christian Carver, Derek Anderson, **Mawla** **Boaks**, Matthew Viglione, Greg Nordin, and Ryan M. Camacho. "Zero-energy tuning of silicon photonic devices using 3D-printed microfluidics." In _Frontiers in Optics_, pp. FTu6B-2. Optical Society of America, 2020. 
+* Larson, Kevin, Alec Hammond, Christian Carver, Derek Anderson, **Mawla** **Boaks**, Matthew Viglione, Greg Nordin, and Ryan M. Camacho. "Zero-energy tuning of silicon photonic devices using 3D-printed microfluidics." In _Frontiers in Optics_, pp. FTu6B-2. Optical Society of America, 2020. [[OSA]](https://www.osapublishing.org/abstract.cfm?uri=FiO-2020-FTu6B.2)
 
 ## Journal Articles
 
