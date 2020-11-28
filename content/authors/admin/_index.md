@@ -74,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-I work on developing high resolution 3D printing processes to bring the fabrication of lab-on-a-chip devices with microfluidic features (<100 μm) out of high maintenance class 10 cleanroom to a custom 3D printer. Currently, I am a 3rd year PhD student in Electrical and Computer Engineering department at Brigham Young University, Provo, UT. I work as a Research Assistant in the 3D printing for microfluidics lab under the supervision of Dr. Greg Nordin.
+I work on developing high resolution 3D printing processes to bring the fabrication of lab-on-a-chip devices with microfluidic features (<100 μm) out of high maintenance class 10 cleanroom to a custom 3D printer. Currently, I am a 3rd year PhD student in Electrical and Computer Engineering department at [Brigham Young University](https://www.byu.edu/), Provo, UT. I work as a Research Assistant in the 3D printing for microfluidics lab under the supervision of Dr. Greg Nordin.
 
 I love cooking traditional Bangladeshi food, road trips, and visiting US national parks during my spare time. So far I have visited 4 national parks. I intend to visit all the national parks in future.
