@@ -81,6 +81,6 @@ __Biocompatible high resolution 3D printing for microfluidics__
 
 Advisor: [Dr. Greg Nordin](https://ece.byu.edu/greg-nordin)
 
-In this project, I am wonrking on developing biocompatible and optically clear resin for high resolution 3D printed microfluidic devices for lab-on-a-chip devices. In this newly developed resin, we have the capability to do all of the active and passive microfluidic components we've already shown such as valves, pumps, etc. 
+In this project, I am wonrking on developing biocompatible and optically clear resin for high resolution 3D printed microfluidic devices for lab-on-a-chip application. In this newly developed resin, we have the capability to do all of the active and passive microfluidic components we've already shown such as valves, pumps, etc. 
 
 ## Past Projects
