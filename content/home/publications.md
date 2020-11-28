@@ -71,5 +71,5 @@ subtitle = ""
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
 
-# Try 1
-## Try 2
+# Conference Papers
+# Journal Articles
