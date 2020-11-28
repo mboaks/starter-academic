@@ -71,7 +71,5 @@ subtitle = "test - mawla"
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
 
-Hi, my name is Mawla.
-
 # Try 1
 ## Try 2
