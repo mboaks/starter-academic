@@ -73,6 +73,8 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 ## Conference Papers
 
-* K. Larson, A. Hammond, C. Carver, D. Anderson, *M. Boaks*, M. Viglione, G. Nordin, and R. M. Camacho, "Zero-energy tuning of silicon photonic devices using 3D-printed microfluidics," in Frontiers in Optics / Laser Science, B. Lee, C. Mazzali, K. Corwin, and R. Jason Jones, eds., OSA Technical Digest (Optical Society of America, 2020), paper FTu6B.2.
+* K. Larson, A. Hammond, C. Carver, D. Anderson, **M.** **Boaks**, M. Viglione, G. Nordin, and R. M. Camacho, "Zero-energy tuning of silicon photonic devices using 3D-printed microfluidics," in Frontiers in Optics / Laser Science, B. Lee, C. Mazzali, K. Corwin, and R. Jason Jones, eds., OSA Technical Digest (Optical Society of America, 2020), paper FTu6B.2.
 
 ## Journal Articles
+
+* 
