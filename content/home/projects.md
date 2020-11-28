@@ -80,7 +80,7 @@ subtitle = ""
 __Biocompatible High Resolution 3D Printing for Microfluidics__     
 Advisor: [Dr. Greg Nordin](https://ece.byu.edu/greg-nordin)
 
-In this project, I am wonrking on developing biocompatible and optically clear resin for high resolution 3D printed microfluidic devices for lab-on-a-chip application. In this newly developed resin, we have the capability to do all of the active and passive microfluidic components we've already shown such as valves, pumps, etc. 
+In this project, I am working on developing biocompatible and optically clear resin for high resolution 3D printed microfluidic devices for lab-on-a-chip application. In this newly developed resin, we have the capability to do all of the active and passive microfluidic components we've already shown such as valves, pumps, etc. 
 
 __Photonic Tuning of Silicon Ring Resonators Using an Automated Microfluidic Mixer__    
 Advisor: [Dr. Greg Nordin](https://ece.byu.edu/greg-nordin) & 
