@@ -75,7 +75,7 @@ subtitle = ""
  css_class = ""
 +++
 
-## Current Project
+## Current Projects
 
 __Biocompatible High Resolution 3D Printing for Microfluidics__     
 Advisor: [Dr. Greg Nordin](https://ece.byu.edu/greg-nordin)
@@ -87,7 +87,7 @@ Advisor: [Dr. Ryan Camacho](https://camacholab.byu.edu/directory/ryan-camacho) &
 
 In this project, we developed a design of a 3D printed microfluidic device that for the first time can automatically mix and pump fluids as needed to accurately modulate photonic ring resonators.
 
-## Past Projects
+## Past Project
 
 __Hydrogen Storage in Catalytically-Modified Porous Silicon__       
 Advisor: [Dr. Peter Schubert](https://et.iupui.edu/people/pjschube)     
