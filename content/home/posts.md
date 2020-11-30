@@ -66,3 +66,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+__2020/9/14:__ Kevin Larson (MS student) from Dr. Ryan Camacho's research group at BYU presented our collaboration work in Frontiers in Optics 2020 conference where we showed resonant frequencies of silicon ring resonators can be tuned using a custom 3D-printed microfluidic chip overlaid directly on the photonic circuit. We integrated 3D printed microfluidics with photonics in this project. 
