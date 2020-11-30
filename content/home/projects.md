@@ -89,6 +89,7 @@ In this project, we developed a design of a 3D printed microfluidic device that 
 
 ## Past Projects
 
-Hydrogen Storage in Catalytically-Modified Porous Silicon
+__Hydrogen Storage in Catalytically-Modified Porous Silicon__       
+Advisor: [Dr. Peter Schubert](https://et.iupui.edu/people/pjschube)     
 
-Advisor: [Dr. Peter Schubert](https://et.iupui.edu/people/pjschube)
+In this project, I investigated the kinetics of catalytically-modified porous silicon as a reversible hydrogen storage system using density functional theory (DFT) and compared the results to laboratory experiments.   
