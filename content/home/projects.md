@@ -88,3 +88,7 @@ Advisor: [Dr. Ryan Camacho](https://camacholab.byu.edu/directory/ryan-camacho) &
 In this project, we developed a design of a 3D printed microfluidic device that for the first time can automatically mix and pump fluids as needed to accurately modulate photonic ring resonators.
 
 ## Past Projects
+
+Hydrogen Storage in Catalytically-Modified Porous Silicon
+
+Advisor: [Dr. Peter Schubert](https://et.iupui.edu/people/pjschube)
