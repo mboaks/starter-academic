@@ -92,4 +92,6 @@ In this project, we developed a design of a 3D printed microfluidic device that 
 __Hydrogen Storage in Catalytically-Modified Porous Silicon__       
 Advisor: [Dr. Peter Schubert](https://et.iupui.edu/people/pjschube)     
 
-In this project, I investigated the kinetics of catalytically-modified porous silicon as a reversible hydrogen storage system using density functional theory (DFT) and compared the results to laboratory experiments.   
+In this project, I investigated the kinetics of catalytically-modified porous silicon as a reversible hydrogen storage system using density functional theory (DFT) and compared the results to laboratory experiments. This project won methe  Graduate School Distinguished Master’s Thesis Award, Indiana University, 2018. [[Read more]](https://graduate.iupui.edu/admissions/financial-support/fellowships-awards/thesis-award.html)
+
+
