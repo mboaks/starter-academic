@@ -67,4 +67,4 @@ subtitle = ""
  css_class = ""
 +++
 
-This part is under construction. Come back in some time. 
+{{< figure library="true" src="under-construction.jpg" title="" >}}
