@@ -71,4 +71,5 @@ __9/14/2020:__ Kevin Larson (MS student) presented our collaboration work in *Fr
 
 __11/27/2019:__ I passed my PhD competency exam! 
 
-__4/19/2019:__ Attended Indiana University Award ceremony held at Indiana University, Bloomington campus. I received the University Graduate School Distinguished Master's Thesis Award. 
+__4/19/2019:__ Attended Indiana University Graduate School Award ceremony held at Indiana University, Bloomington campus. I received the University Graduate School Distinguished Master's Thesis Award. 
+
