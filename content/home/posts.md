@@ -73,4 +73,4 @@ __11/27/2019:__ I passed my PhD competency exam!
 
 __4/19/2019:__ Attended Indiana University Graduate School Award ceremony held at Indiana University, Bloomington campus. I received the University Graduate School Distinguished Master's Thesis Award. 
 
-{{< figure library="true" src="imageIMG_20190419_162955.jpg" title="" >}}
+{{< figure library="true" src="IMG_20190419_162955.jpg" title="" >}}
