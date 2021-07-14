@@ -67,7 +67,10 @@ subtitle = ""
  css_class = ""
 +++
 
-__6/14/2021:__ Our journal paper titled *Automated Photonic Tuning of Silicon Microring Resonators Using a 3D-printed Microfluidic Mixer* got accepted in OSA Continuum.
+__7/13/2021:__ Our abstract titled *"THE REST OF THE STORY: HIGH RESOLUTION 3D PRINTING WITH A BIOCOMPATIBLE RESIN FOR MICROFLUIDICS"* has been accepted for poster presentation in MicroTAS 2021. Another collaboration work with Dr. Wooley's group titled *"3D PRINTING MICROFLUIDIC DEVICES WITH CLEAR RESIN FOR 
+ELECTROPHORETIC SEPARATION"* has also been accepted for poster presentation. 
+
+__6/14/2021:__ Our journal paper titled *"Automated Photonic Tuning of Silicon Microring Resonators Using a 3D-printed Microfluidic Mixer"* got accepted in OSA Continuum.
 
 __9/14/2020:__ Kevin Larson (MS student) presented our collaboration work in *Frontiers in Optics 2020* conference where we showed resonant frequencies of silicon ring resonators can be tuned using a custom 3D-printed microfluidic chip overlaid directly on the photonic circuit. We integrated 3D printed microfluidics with photonics in this project. This year the conference was virtual. 
 
