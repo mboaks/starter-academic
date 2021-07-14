@@ -75,7 +75,7 @@ subtitle = ""
  css_class = ""
 +++
 
-## Current Projects
+## Current Project
 
 __Biocompatible High Resolution 3D Printing for Microfluidics__     
 Advisor: [Dr. Greg Nordin](https://ece.byu.edu/greg-nordin)
@@ -84,7 +84,7 @@ In this project, I am working on developing biocompatible and optically clear re
 
 
 
-## Past Project
+## Past Projects
 
 __Photonic Tuning of Silicon Ring Resonators Using an Automated Microfluidic Mixer__    
 Advisor: [Dr. Ryan Camacho](https://camacholab.byu.edu/directory/ryan-camacho) & [Dr. Greg Nordin](https://ece.byu.edu/greg-nordin)
