@@ -82,12 +82,14 @@ Advisor: [Dr. Greg Nordin](https://ece.byu.edu/greg-nordin)
 
 In this project, I am working on developing biocompatible and optically clear resin for high resolution 3D printed microfluidic devices for lab-on-a-chip application. In this newly developed resin, we have the capability to do all of the active and passive microfluidic components we've already shown such as valves, pumps, etc. 
 
+
+
+## Past Project
+
 __Photonic Tuning of Silicon Ring Resonators Using an Automated Microfluidic Mixer__    
 Advisor: [Dr. Ryan Camacho](https://camacholab.byu.edu/directory/ryan-camacho) & [Dr. Greg Nordin](https://ece.byu.edu/greg-nordin)
 
-In this project, we developed a design of a 3D printed microfluidic device that for the first time can automatically mix and pump fluids as needed to accurately modulate photonic ring resonators.
-
-## Past Project
+In this project, we developed a 3D printed microfluidic device that for the first time can automatically mix and pump fluids as needed to accurately modulate photonic ring resonators. We have written two journal papers (1 accepted and the other currently under peer review) based on the results from this project. 
 
 __Hydrogen Storage in Catalytically-Modified Porous Silicon__       
 Advisor: [Dr. Peter Schubert](https://et.iupui.edu/people/pjschube)     
