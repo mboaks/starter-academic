@@ -77,4 +77,6 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 ## Journal Articles
 
+* Christian Carver, **Mawla Boaks**, JuHang Kim, Kevin Larson, Gregory P. Nordin, and Ryan M. Camacho, "Automated photonic tuning of silicon microring resonators using a 3D-printed microfluidic mixer," OSA Continuum 4, 2075-2081 (2021)[[OSA Continuum]](https://www.osapublishing.org/osac/fulltext.cfm?uri=osac-4-7-2075)
+
 * __Boaks, Mawla__, and Peter J. Schubert. "Kinetics of hydrogen storage on catalytically-modified porous silicon." _Journal of Catalysis_ 371 (2019): 81-87. [[ScienceDirect]](https://www.sciencedirect.com/science/article/pii/S0021951719300351)
