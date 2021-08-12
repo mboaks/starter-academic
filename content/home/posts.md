@@ -67,6 +67,8 @@ subtitle = ""
  css_class = ""
 +++
 
+__8/2/2021:__ Our journal paper titled *"Post-fabrication Tuning of Micro-ring Resonators Using 3D-printed Microfluidics"* got accepted in Optics Letters.
+
 __7/13/2021:__ Our abstract titled *"THE REST OF THE STORY: HIGH RESOLUTION 3D PRINTING WITH A BIOCOMPATIBLE RESIN FOR MICROFLUIDICS"* has been accepted for poster presentation in MicroTAS 2021. Another collaboration work with Dr. Wooley's group titled *"3D PRINTING MICROFLUIDIC DEVICES WITH CLEAR RESIN FOR 
 ELECTROPHORETIC SEPARATION"* has also been accepted for poster presentation. 
 
