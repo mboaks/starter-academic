@@ -79,6 +79,8 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 ## Journal Articles
 
+*Kevin Larson, Alec Hammond, Christian Carver, Derek Anderson, Matthew Viglione, **Mawla Boaks**, Greg Nordin, and Ryan M. Camacho, "Post-fabrication tuning of microring resonators using 3D-printed microfluidics," Opt. Lett. 46, 4650-4653 (2021)[[Optics Letters]](https://www.osapublishing.org/ol/fulltext.cfm?uri=ol-46-18-4650&id=458684)
+
 * Christian Carver, **Mawla Boaks**, JuHang Kim, Kevin Larson, Gregory P. Nordin, and Ryan M. Camacho, "Automated photonic tuning of silicon microring resonators using a 3D-printed microfluidic mixer," OSA Continuum 4, 2075-2081 (2021)[[OSA Continuum]](https://www.osapublishing.org/osac/fulltext.cfm?uri=osac-4-7-2075)
 
 * __Boaks, Mawla__, and Peter J. Schubert. "Kinetics of hydrogen storage on catalytically-modified porous silicon." _Journal of Catalysis_ 371 (2019): 81-87. [[ScienceDirect]](https://www.sciencedirect.com/science/article/pii/S0021951719300351)
