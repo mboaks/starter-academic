@@ -67,6 +67,10 @@ subtitle = ""
  css_class = ""
 +++
 
+__10/12/2021:__ We are here at MicroTAS 2021, Palm springs, CA. We are delighted to be able to present our research on 3D printing for Microfluidics. Here is a photo of part of the Nordin-Woolley Lab presenting their work at MicroTAS 2021. 
+
+{{< figure library="true" src="thumbnail_IMG_0968.jpg" title="" >}}
+
 __8/12/2021:__  We had a lab retreat at Tibble fork reservoir. 
 
 {{< figure library="true" src="IMG_0593.jpg" title="" >}}
