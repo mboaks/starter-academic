@@ -67,6 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 
+__03/31/2022:__ Our journal paper titled *"3D Printed Microfluidic Device for Automated, Pressure-driven, Valve-injected Microchip Electrophoresis of Preterm Birth Biomarkers"* got accepted in Microchimica Acta.
 __10/12/2021:__ We are here at MicroTAS 2021, Palm springs, CA. We are delighted to be able to present our research on 3D printing for Microfluidics. Here is a photo of part of the Nordin-Woolley Lab presenting their work at MicroTAS 2021. 
 
 {{< figure library="true" src="thumbnail_IMG_0968.jpg" title="" >}}
