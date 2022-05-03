@@ -75,11 +75,11 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 * Carver, Christian, **Mawla** **Boaks**, JuHang Kim, Kevin Larson, Gregory P. Nordin, and Ryan M. Camacho. "Photonic Tuning of Silicon Ring Resonators Using an Automated Microfluidic Mixer." In _CLEO: Applications and Technology_, pp. ATh4G-4. Optical Society of America, 2021. [[OSA]](https://www.osapublishing.org/abstract.cfm?uri=CLEO_AT-2021-ATh4G.4)
 
-* Larson, Kevin, Alec Hammond, Christian Carver, Derek Anderson, **Mawla** **Boaks**, Matthew Viglione, Greg Nordin, and Ryan M. Camacho. "Zero-energy tuning of silicon photonic devices using 3D-printed microfluidics." In _Frontiers in Optics_, pp. FTu6B-2. Optical Society of America, 2020. [[OSA]](https://www.osapublishing.org/abstract.cfm?uri=FiO-2020-FTu6B.2)
+* Larson, Kevin, Alec Hammond, Christian Carver, Derek Anderson, **Mawla** **Boaks**, Matthew Viglione, Greg Nordin, and Ryan M. Camacho. "Zero-energy tuning of silicon photonic devices using 3D-printed microfluidics." In _Frontiers in Optics_, pp. FTu6B-2. Optical Society of America, 2020. [[OSA]](https://www.osapublishing.org/abstract.cfm?uri=FiO-2020-FTu6B.2)[[Microchimica Acta]](https://link.springer.com/article/10.1007/s00604-022-05303-8)
 
 ## Journal Articles
 
-* Esene, Joule E., **Mawla Boaks**, Anna V. Bickham, Gregory P. Nordin, and Adam T. Woolley. "3D printed microfluidic device for automated, pressure-driven, valve-injected microchip electrophoresis of preterm birth biomarkers." Microchimica Acta 189, no. 5 (2022): 1-8.
+* Esene, Joule E., **Mawla Boaks**, Anna V. Bickham, Gregory P. Nordin, and Adam T. Woolley. "3D printed microfluidic device for automated, pressure-driven, valve-injected microchip electrophoresis of preterm birth biomarkers." Microchimica Acta 189, no. 5 (2022): 1-8.[[Optics Letters]](https://www.osapublishing.org/ol/fulltext.cfm?uri=ol-46-18-4650&id=458684)
 
 * Kevin Larson, Alec Hammond, Christian Carver, Derek Anderson, Matthew Viglione, **Mawla Boaks**, Greg Nordin, and Ryan M. Camacho, "Post-fabrication tuning of microring resonators using 3D-printed microfluidics," Opt. Lett. 46, 4650-4653 (2021)[[Optics Letters]](https://www.osapublishing.org/ol/fulltext.cfm?uri=ol-46-18-4650&id=458684)
 
