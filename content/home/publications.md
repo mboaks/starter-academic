@@ -75,7 +75,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 * Carver, Christian, **Mawla** **Boaks**, JuHang Kim, Kevin Larson, Gregory P. Nordin, and Ryan M. Camacho. "Photonic Tuning of Silicon Ring Resonators Using an Automated Microfluidic Mixer." In _CLEO: Applications and Technology_, pp. ATh4G-4. Optical Society of America, 2021. [[OSA]](https://www.osapublishing.org/abstract.cfm?uri=CLEO_AT-2021-ATh4G.4)
 
-* Larson, Kevin, Alec Hammond, Christian Carver, Derek Anderson, **Mawla** **Boaks**, Matthew Viglione, Greg Nordin, and Ryan M. Camacho. "Zero-energy tuning of silicon photonic devices using 3D-printed microfluidics." In _Frontiers in Optics_, pp. FTu6B-2. Optical Society of America, 2020. [[OSA]](https://www.osapublishing.org/abstract.cfm?uri=FiO-2020-FTu6B.2)[[Optica]](https://opg.optica.org/abstract.cfm?uri=fio-2020-FTu6B.2)
+* Larson, Kevin, Alec Hammond, Christian Carver, Derek Anderson, **Mawla** **Boaks**, Matthew Viglione, Greg Nordin, and Ryan M. Camacho. "Zero-energy tuning of silicon photonic devices using 3D-printed microfluidics." In _Frontiers in Optics_, pp. FTu6B-2. Optical Society of America, 2020. [[OSA]](https://www.osapublishing.org/abstract.cfm?uri=FiO-2020-FTu6B.2)
 
 ## Journal Articles
 
