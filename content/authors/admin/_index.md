@@ -76,4 +76,4 @@ user_groups:
 
 I work on developing high resolution 3D printing processes to bring the fabrication of lab-on-a-chip devices with microfluidic features (<100 μm) out of high maintenance class 10 cleanroom to a custom 3D printer. Currently, I am a 4th year PhD student in Electrical and Computer Engineering department at [Brigham Young University](https://www.byu.edu/), Provo, UT. I work as a Research Assistant in the 3D printing for microfluidics lab under the supervision of [Dr. Greg Nordin](https://ece.byu.edu/greg-nordin).
 
-I love cooking traditional Bangladeshi food, road trips, and visiting US national parks during my spare time. So far I have visited 6 national parks and Yellowstone is my most favorite national park so far. 
+I love cooking traditional Bangladeshi food, road trips, and visiting US national parks during my spare time. So far I have visited 9 national parks and Yellowstone is my most favorite national park so far. 
