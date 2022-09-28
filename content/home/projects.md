@@ -77,14 +77,17 @@ subtitle = ""
 
 ## Current Project
 
-__Biocompatible High Resolution 3D Printing for Microfluidics__     
-Advisor: [Dr. Greg Nordin](https://ece.byu.edu/greg-nordin)
+__
 
-In this project, I am working on developing biocompatible and optically clear resin for high resolution 3D printed microfluidic devices for lab-on-a-chip application. In this newly developed resin, we have the capability to do all of the active and passive microfluidic components we've already shown such as valves, pumps, etc. 
 
 
 
 ## Past Projects
+
+__Biocompatible High Resolution 3D Printing for Microfluidics__     
+Advisor: [Dr. Greg Nordin](https://ece.byu.edu/greg-nordin)
+
+In this project, we developed a biocompatible and optically clear resin for high resolution 3D printed microfluidic devices for lab-on-a-chip application. We had to use a short pass filter to match the printer's source emission spectra to the absorber's absorption spectra. We printed active microfluidic components such as valves and pumps with this new resin. Finally, we fabricated a concentration gradient device and demostrated chemotaxis of human fibroblast cells towards a chemoattractant as an utility of the biocompatible resin. 
 
 __Photonic Tuning of Silicon Ring Resonators Using an Automated Microfluidic Mixer__    
 Advisor: [Dr. Ryan Camacho](https://camacholab.byu.edu/directory/ryan-camacho) & [Dr. Greg Nordin](https://ece.byu.edu/greg-nordin)
