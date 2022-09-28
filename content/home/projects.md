@@ -77,15 +77,13 @@ subtitle = ""
 
 ## Current Project
 
-__
-
 __3D printing for microfluidics with sub 10 micron thick layers__
 
 In these project we are developing a new approach to be able to 3D print less than 10 micron thick layers for microfluidic applications. 
 
 __Squeeze valve serial dilution and dose response assay__
 
-In this project we intent to fabricate tiny serial dilution devices based on squeeze valves invented by our group. The application of this device will be a dose response assay. 
+In this project we intend to fabricate tiny serial dilution devices based on squeeze valves invented by our group. The application of this device will be a dose response assay. 
 
 
 ## Past Projects
