@@ -79,7 +79,13 @@ subtitle = ""
 
 __
 
+__3D printing for microfluidics with sub 10 micron thick layers__
 
+In these project we are developing a new approach to be able to 3D print less than 10 micron thick layers for microfluidic applications. 
+
+__Squeeze valve serial dilution and dose response assay__
+
+In this project we intent to fabricate tiny serial dilution devices based on squeeze valves invented by our group. The application of this device will be a dose response assay. 
 
 
 ## Past Projects
@@ -87,7 +93,7 @@ __
 __Biocompatible High Resolution 3D Printing for Microfluidics__     
 Advisor: [Dr. Greg Nordin](https://ece.byu.edu/greg-nordin)
 
-In this project, we developed a biocompatible and optically clear resin for high resolution 3D printed microfluidic devices for lab-on-a-chip application. We had to use a short pass filter to match the printer's source emission spectra to the absorber's absorption spectra. We printed active microfluidic components such as valves and pumps with this new resin. Finally, we fabricated a concentration gradient device and demostrated chemotaxis of human fibroblast cells towards a chemoattractant as an utility of the biocompatible resin. 
+In this project, we developed a biocompatible and optically clear resin for high resolution 3D printed microfluidic devices for lab-on-a-chip application. We had to use a short pass filter to match the printer's source emission spectra to the absorber's absorption spectra. We printed active microfluidic components such as valves and pumps with this new resin. Finally, we fabricated a concentration gradient device with integrated 3D printed on-chip pumps and demostrated chemotaxis of human fibroblast cells towards a chemoattractant as an utility of the biocompatible resin. 
 
 __Photonic Tuning of Silicon Ring Resonators Using an Automated Microfluidic Mixer__    
 Advisor: [Dr. Ryan Camacho](https://camacholab.byu.edu/directory/ryan-camacho) & [Dr. Greg Nordin](https://ece.byu.edu/greg-nordin)
