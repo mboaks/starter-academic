@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in ECE
     institution: Brigham Young University
-    year: 2022
+    year: 2023
   - course: MSc in ECE
     institution: Indiana University-Purdue University Indianapolis
     year: 2018
